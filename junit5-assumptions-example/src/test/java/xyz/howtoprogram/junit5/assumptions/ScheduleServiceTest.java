@@ -1,4 +1,4 @@
-package xyz.howtoprogram.junit5.assumptions;
+//package xyz.howtoprogram.junit5.assumptions;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assumptions.*;
