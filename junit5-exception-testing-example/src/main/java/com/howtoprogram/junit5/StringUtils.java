@@ -1,5 +1,4 @@
 
-Robin Loh
 
 package com.howtoprogram.junit5;
 
