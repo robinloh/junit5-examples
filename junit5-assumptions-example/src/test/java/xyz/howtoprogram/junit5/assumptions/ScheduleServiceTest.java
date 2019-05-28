@@ -42,6 +42,7 @@ public class ScheduleServiceTest {
 
   @Test
   public void backupCalendarWindows() {
+      System.out.println("Hello");
     assumeTrue(System.getProperty("os.name").startsWith("Windows"));
 
     // Test doSchedule method
